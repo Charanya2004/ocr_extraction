@@ -1,0 +1,22 @@
+INVOICE
+
+BILLED TO: Invoice No. 12345
+Imani Olowe 16 June 2025
++123-456-7890
+
+63 Ivy Road, Hawkville, GA, USA 31036
+
+Item Quantity Unit Price Total
+Eggshell Camisole Top 1 $123 $123
+Cuban Collar Shirt 2 $127 $254
+Floral Cotton Dress 1 $123 $123
+Subtotal $500
+Tax (0%) $o
+Total $500
+Thank you!
+PAYMENT INFORMATION
+Briard Bank
+Account Name: Samira Hadid + - lid
+Account No.: 123-456-7890 Samira Hadic
+
+Pay by: 5 July 2025 123 Anywhere St., Any City, ST 12345
